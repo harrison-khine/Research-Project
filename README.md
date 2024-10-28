@@ -7,3 +7,6 @@ Under Google Colab folder
 
 In the Scripts folder:
 - contains the .cs scripts for Unity Game
+
+Exported the Unity Project, hopefully contains everything to be unpackaged in Unity
+A .mp4 file to show the game demonstration
